@@ -129,4 +129,4 @@ build/             Recursos de empaquetado (iconos generados)
 
 ## Licencia
 
-MIT.
+Apache-2.0 license.
